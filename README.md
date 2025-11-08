@@ -58,4 +58,6 @@ Tabulation:2
 ![WhatsApp Image 2025-11-08 at 20 33 39_d2c29e32](https://github.com/user-attachments/assets/30c250a6-9590-4a7c-8c1c-d1ab33137126)
 
 RESULT:
+
+
 Thus the staircase wiring is connected and tested.
